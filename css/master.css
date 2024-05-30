@@ -1,0 +1,57 @@
+body {
+    text-align: center;
+    margin-top: 50px;
+    background-color:cornsilk;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.pro_img {
+    width: 100%;
+    height: auto;
+    max-height: 600px;
+    max-width: 300px;
+}
+
+.title{
+    color: brown;
+    font-size: 40px;
+}
+
+.head{
+    color: blue;
+    font-size: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.bio{
+    color: darkcyan;
+    font-size: 15px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.img {
+    vertical-align: middle;
+    width: 100%;
+    height: auto;
+    max-width: 400px;
+    max-height: 175px;
+    margin-bottom: 20px;
+    margin-top: 14px;
+}
+
+.email-link {
+    transition: all 0.3s;
+}
+
+.email-link:hover{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.email-link:active{
+    font-size: 20px;
+    font-weight: bolder;
+}
